@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: index.html
+    :cursor_offset: 126
+    :timestamp: 2013-01-28 10:46:16 -05:00
+  - :path: style.css
+    :cursor_offset: 50
+    :timestamp: 2013-01-28 10:47:22 -05:00
+files_to_retain: 0
