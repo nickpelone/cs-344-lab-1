@@ -9,11 +9,11 @@ background:#68D979;
 }
 
 .content{
-  width:960px;
+  min-width:640px;
   min-height:350px;
-  margin-top:200px;
+  margin-top:auto;
   margin-right:auto;
-  margin-bottom:0;
+  margin-bottom:auto;
   margin-left:auto;
   
 }
@@ -22,17 +22,25 @@ background:#68D979;
   font-size:xx-large;
   color:#223B34;
   text-align:right;
+  margin-bottom:;
 }
 
 .subText{
+  font-family: 'Roboto', sans-serif;
+  margin-top:auto;
   font-size:small;
+  color:#223B34;
+  text-align:right;
   
 }
 
 .icons{
+  margin-top:275px
+  float:right ;
+  text-align:right;
   
 }
 
 a{
-  text-decoration:none;
+text-decoration:none;
 }
