@@ -1,19 +1,31 @@
 body{
 font-family: 'Roboto Condensed', sans-serif;
+background:#68D979;
+
+
 
 
 
 }
 
 .content{
+  width:960px;
+  min-height:350px;
+  margin-top:200px;
+  margin-right:auto;
+  margin-bottom:0;
+  margin-left:auto;
   
 }
 
 .nameText{
-  
+  font-size:xx-large;
+  color:#223B34;
+  text-align:right;
 }
 
 .subText{
+  font-size:small;
   
 }
 
@@ -22,5 +34,5 @@ font-family: 'Roboto Condensed', sans-serif;
 }
 
 a{
-  
+  text-decoration:none;
 }
