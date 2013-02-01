@@ -2,9 +2,40 @@ body{
   background:#EAC3F7;
 }
 .header{
+ width:640px;
+ margin:auto;
+ text-align:center;
  font-family: 'Roboto Condensed', sans-serif;
+ border-style:solid;
+ border-color:#96673E;
+ color:#291F16;
+ font-size:x-large;
+ 
 }
 
 .content{
+  background:#E8B78B;
+  font-family: 'Roboto', sans-serif;
+  min-height:320px;
+  float:left;
+  width: 55%;
+  border-style:dashed;
+  font-size:smaller;
+  border-color:#96673E;
   
 }
+
+.navigation{
+  background:#E8B78B;
+  float:right;
+  width:25%;
+  border-style:dashed;
+  border-color:#96673E;
+  min-height:320px;
+  
+}
+  a:link{font-size:larger; color:#454A41; text-decoration:none;}
+  a:visited{font-size:larger; color:#454A41; text-decoration:none;}
+  a:hover{font-size:larger; color:#454A41; text-decoration:none;}
+  a:active{font-size:larger; color:#454A41; text-decoration:none;}
+  
