@@ -26,6 +26,7 @@ body{
 }
 
 .navigation{
+  text-align:center;
   font-family: 'Roboto', sans-serif;
   font-size:larger;
   background:#E8B78B;
