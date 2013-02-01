@@ -26,16 +26,18 @@ body{
 }
 
 .navigation{
+  font-family: 'Roboto', sans-serif;
+  font-size:larger;
   background:#E8B78B;
   float:right;
-  width:25%;
+  width:30%;
   border-style:dashed;
   border-color:#96673E;
   min-height:320px;
   
 }
-  a:link{font-size:larger; color:#454A41; text-decoration:none;}
-  a:visited{font-size:larger; color:#454A41; text-decoration:none;}
-  a:hover{font-size:larger; color:#454A41; text-decoration:none;}
-  a:active{font-size:larger; color:#454A41; text-decoration:none;}
+  a:link{font-size:larger; color:#454A41; text-decoration:none; font-family: 'Roboto', sans-serif;}
+  a:visited{font-size:larger; color:#454A41; text-decoration:none; font-family: 'Roboto', sans-serif;}
+  a:hover{font-size:larger; color:#454A41; text-decoration:none; font-family: 'Roboto', sans-serif;}
+  a:active{font-size:larger; color:#454A41; text-decoration:none; font-family: 'Roboto', sans-serif;}
   
